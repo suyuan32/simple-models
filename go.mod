@@ -1,4 +1,4 @@
-module gihub.com/suyuan32/simple-modals
+module github.com/suyuan32/simple-modals
 
 go 1.19
 
